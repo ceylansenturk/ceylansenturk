@@ -1,15 +1,17 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Ceylan Senturk</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Ceylan</h1>
+<h3 align="center">A passionate Software Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceylansenturk&label=Profile%20views&color=0e75b6&style=flat" alt="ceylansenturk" /> </p>
 
-- 📱 I'm an Sotware Developer
+- 📱 I'm an Software Developer
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
 - 📫 How to reach me **ceng.ceysenturk@gmail.com**
+
+-🚩 Interested in Natural Language Processing, Machine Learnig
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
