@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ceng.ceysenturk@gmail.com**
 
--🚩 Interested in Natural Language Processing, Machine Learnig
+- 🚩 Interested in Natural Language Processing, Machine Learnig
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
