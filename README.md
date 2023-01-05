@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceylansenturk&label=Profile%20views&color=0e75b6&style=flat" alt="ceylansenturk" /> </p>
 
-- 📱 I'm a Software Developer
+- 📱 I'm a Software Engineer
 
 - 🌱 I’m currently learning **Web Development**
 
