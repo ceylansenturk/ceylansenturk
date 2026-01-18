@@ -17,7 +17,7 @@
 - 💻 My main stack is **Next.js (App Router), React, TypeScript, and Tailwind CSS**.
 - 🚀 **Key Achievement:** Architected and deployed a ticketing system processing **2,000+ verified transactions** in a single season.
 - 🌱 I’m currently expanding my skills in **Node.js & Backend Architecture** to build full-stack solutions.
-- 📫 How to reach me: **ceng.ceysenturk@gmail.com**
+- 📫 How to reach me: **swe.ceysenturk@gmail.com**
 
 ---
 
