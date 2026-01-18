@@ -69,12 +69,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ceylansenturk&show_icons=true&locale=en&layout=compact&theme=radical" alt="ceylansenturk" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ceylansenturk&show_icons=true&locale=en&theme=radical&count_private=true" alt="ceylansenturk" />
-</p>
 
 <br/>
 
